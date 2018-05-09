@@ -4,7 +4,11 @@
     <FactionDef>
 		<defName>VanuSovereignty</defName>
 		<label>Vanu Sovereignty</label>
-    <description>People form a distant world who have came to research the mechanoids for lost Vanu tech</description>
+
+    <description>People from a distant world who have came to research the mechanoids for lost Vanu tech</description>
+
+    <description>People from a distant world who have came to research the mechanoids for lost Vanu tech</description>
+
 	
 	
     <pawnsPlural>vanu sovereignty</pawnsPlural>
